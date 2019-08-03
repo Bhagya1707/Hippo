@@ -1,4 +1,4 @@
-open jdk  open
+open jdk  open  demo poll scm
 
 yum install java-1.8.0-openjdk
 
